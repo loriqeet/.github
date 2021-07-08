@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contributing
+    url: https://github.com/loriqeet/.github/blob/main/CONTRIBUTING.md
+    about: Guidelines for contributing to Loriqeet projects.
+  - name: Code of Conduct
+    url: https://github.com/loriqeet/.github/blob/main/CODE_OF_CONDUCT.md
+    about: Code of conduct for contributing to Loriqeet projects.
+  - name: Security
+    url: https://github.com/loriqeet/.github/blob/main/SECURITY.md
+    about: Report a security vulnerability.
+  - name: Contact
+    url: https://loriqeet.com/contact
+    about: Contact Loriqeet.
