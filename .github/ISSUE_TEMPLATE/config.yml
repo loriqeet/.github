@@ -6,9 +6,3 @@ contact_links:
   - name: Code of Conduct
     url: https://github.com/loriqeet/.github/blob/main/CODE_OF_CONDUCT.md
     about: Code of conduct for contributing to Loriqeet projects.
-  - name: Security
-    url: https://github.com/loriqeet/.github/blob/main/SECURITY.md
-    about: Report a security vulnerability.
-  - name: Contact
-    url: https://loriqeet.com/contact
-    about: Contact Loriqeet.
